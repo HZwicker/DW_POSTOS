@@ -1,0 +1,6 @@
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\bin\Debug\TriadHenrique.dacpac
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\obj\Debug\TriadHenrique.dll
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\obj\Debug\TriadHenrique.pdb
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\bin\Debug\TriadHenrique.dll
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\bin\Debug\TriadHenrique.pdb
+C:\Users\Henrique\source\repos\TriadHenrique\TriadHenrique\obj\Debug\TriadHenrique.sqlprojAssemblyReference.cache

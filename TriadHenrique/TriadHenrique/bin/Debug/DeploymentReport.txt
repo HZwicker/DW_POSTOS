@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Endereco] (Table)
+       [dbo].[FotoPosto] (Table)
+       [dbo].[Pedido] (Table)
+       [dbo].[Posto] (Table)
+       [dbo].[FK_Pedido_ToTable_Posto] (Foreign Key)
+       [dbo].[FK_Posto_ToTable_Endereco] (Foreign Key)
+       [dbo].[FK_Posto_ToTable_FotoPosto] (Foreign Key)
+
+** Supporting actions

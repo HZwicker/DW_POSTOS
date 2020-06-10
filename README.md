@@ -2,7 +2,7 @@
 
 2 - Criação de um banco de dados (DW_POSTOS) no Microsoft SQL Server Management Studio 18.
 
-3 - inseri alguns dados  e fiz alguns testes de comandos em SQL.
+3 - fiz a inserção dew alguns dados  e  alguns testes de comandos em SQL.
 
 
 Necessário estar instalado :
